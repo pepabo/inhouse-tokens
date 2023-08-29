@@ -1,0 +1,308 @@
+color:
+  semantic:
+    neutral:
+      50:
+        value: '{color.primitive.gray.50.value}'
+        attributes:
+          category: color
+          type: semantic
+      100:
+        value: '{color.primitive.gray.100.value}'
+        attributes:
+          category: color
+          type: semantic
+      200:
+        value: '{color.primitive.gray.200.value}'
+        attributes:
+          category: color
+          type: semantic
+      300:
+        value: '{color.primitive.gray.300.value}'
+        attributes:
+          category: color
+          type: semantic
+      400:
+        value: '{color.primitive.gray.400.value}'
+        attributes:
+          category: color
+          type: semantic
+      500:
+        value: '{color.primitive.gray.500.value}'
+        attributes:
+          category: color
+          type: semantic
+      600:
+        value: '{color.primitive.gray.600.value}'
+        attributes:
+          category: color
+          type: semantic
+      700:
+        value: '{color.primitive.gray.700.value}'
+        attributes:
+          category: color
+          type: semantic
+      800:
+        value: '{color.primitive.gray.800.value}'
+        attributes:
+          category: color
+          type: semantic
+      900:
+        value: '{color.primitive.gray.900.value}'
+        attributes:
+          category: color
+          type: semantic
+    informative:
+      50:
+        value: '{color.primitive.gray.50.value}'
+        attributes:
+          category: color
+          type: semantic
+      100:
+        value: '{color.primitive.gray.100.value}'
+        attributes:
+          category: color
+          type: semantic
+      200:
+        value: '{color.primitive.gray.200.value}'
+        attributes:
+          category: color
+          type: semantic
+      300:
+        value: '{color.primitive.gray.300.value}'
+        attributes:
+          category: color
+          type: semantic
+      400:
+        value: '{color.primitive.gray.400.value}'
+        attributes:
+          category: color
+          type: semantic
+      500:
+        value: '{color.primitive.gray.500.value}'
+        attributes:
+          category: color
+          type: semantic
+      600:
+        value: '{color.primitive.gray.600.value}'
+        attributes:
+          category: color
+          type: semantic
+      700:
+        value: '{color.primitive.gray.700.value}'
+        attributes:
+          category: color
+          type: semantic
+      800:
+        value: '{color.primitive.gray.800.value}'
+        attributes:
+          category: color
+          type: semantic
+      900:
+        value: '{color.primitive.gray.900.value}'
+        attributes:
+          category: color
+          type: semantic
+    positive:
+      50:
+        value: '{color.primitive.green.50.value}'
+        attributes:
+          category: color
+          type: semantic
+      100:
+        value: '{color.primitive.green.100.value}'
+        attributes:
+          category: color
+          type: semantic
+      200:
+        value: '{color.primitive.green.200.value}'
+        attributes:
+          category: color
+          type: semantic
+      300:
+        value: '{color.primitive.green.300.value}'
+        attributes:
+          category: color
+          type: semantic
+      400:
+        value: '{color.primitive.green.400.value}'
+        attributes:
+          category: color
+          type: semantic
+      500:
+        value: '{color.primitive.green.500.value}'
+        attributes:
+          category: color
+          type: semantic
+      600:
+        value: '{color.primitive.green.600.value}'
+        attributes:
+          category: color
+          type: semantic
+      700:
+        value: '{color.primitive.green.700.value}'
+        attributes:
+          category: color
+          type: semantic
+      800:
+        value: '{color.primitive.green.800.value}'
+        attributes:
+          category: color
+          type: semantic
+      900:
+        value: '{color.primitive.green.900.value}'
+        attributes:
+          category: color
+          type: semantic
+    notice:
+      50:
+        value: '{color.primitive.yellow.50.value}'
+        attributes:
+          category: color
+          type: semantic
+      100:
+        value: '{color.primitive.yellow.100.value}'
+        attributes:
+          category: color
+          type: semantic
+      200:
+        value: '{color.primitive.yellow.200.value}'
+        attributes:
+          category: color
+          type: semantic
+      300:
+        value: '{color.primitive.yellow.300.value}'
+        attributes:
+          category: color
+          type: semantic
+      400:
+        value: '{color.primitive.yellow.400.value}'
+        attributes:
+          category: color
+          type: semantic
+      500:
+        value: '{color.primitive.yellow.500.value}'
+        attributes:
+          category: color
+          type: semantic
+      600:
+        value: '{color.primitive.yellow.600.value}'
+        attributes:
+          category: color
+          type: semantic
+      700:
+        value: '{color.primitive.yellow.700.value}'
+        attributes:
+          category: color
+          type: semantic
+      800:
+        value: '{color.primitive.yellow.800.value}'
+        attributes:
+          category: color
+          type: semantic
+      900:
+        value: '{color.primitive.yellow.900.value}'
+        attributes:
+          category: color
+          type: semantic
+    negative:
+      50:
+        value: '{color.primitive.red.50.value}'
+        attributes:
+          category: color
+          type: semantic
+      100:
+        value: '{color.primitive.red.100.value}'
+        attributes:
+          category: color
+          type: semantic
+      200:
+        value: '{color.primitive.red.200.value}'
+        attributes:
+          category: color
+          type: semantic
+      300:
+        value: '{color.primitive.red.300.value}'
+        attributes:
+          category: color
+          type: semantic
+      400:
+        value: '{color.primitive.red.400.value}'
+        attributes:
+          category: color
+          type: semantic
+      500:
+        value: '{color.primitive.red.500.value}'
+        attributes:
+          category: color
+          type: semantic
+      600:
+        value: '{color.primitive.red.600.value}'
+        attributes:
+          category: color
+          type: semantic
+      700:
+        value: '{color.primitive.red.700.value}'
+        attributes:
+          category: color
+          type: semantic
+      800:
+        value: '{color.primitive.red.800.value}'
+        attributes:
+          category: color
+          type: semantic
+      900:
+        value: '{color.primitive.red.900.value}'
+        attributes:
+          category: color
+          type: semantic
+    attention:
+      50:
+        value: '{color.primitive.orange.50.value}'
+        attributes:
+          category: color
+          type: semantic
+      100:
+        value: '{color.primitive.orange.100.value}'
+        attributes:
+          category: color
+          type: semantic
+      200:
+        value: '{color.primitive.orange.200.value}'
+        attributes:
+          category: color
+          type: semantic
+      300:
+        value: '{color.primitive.orange.300.value}'
+        attributes:
+          category: color
+          type: semantic
+      400:
+        value: '{color.primitive.orange.400.value}'
+        attributes:
+          category: color
+          type: semantic
+      500:
+        value: '{color.primitive.orange.500.value}'
+        attributes:
+          category: color
+          type: semantic
+      600:
+        value: '{color.primitive.orange.600.value}'
+        attributes:
+          category: color
+          type: semantic
+      700:
+        value: '{color.primitive.orange.700.value}'
+        attributes:
+          category: color
+          type: semantic
+      800:
+        value: '{color.primitive.orange.800.value}'
+        attributes:
+          category: color
+          type: semantic
+      900:
+        value: '{color.primitive.orange.900.value}'
+        attributes:
+          category: color
+          type: semantic

@@ -1,0 +1,18 @@
+opacity:
+  surface:
+    base:
+      disabled:
+        value: 0.38
+        attributes:
+          category: opacity
+          type: surface
+          item: base
+          state: disabled
+    button:
+      hollow:
+        value: 0.15
+        attributes:
+          category: opacity
+          type: surface
+          item: button
+          subitem: hollow

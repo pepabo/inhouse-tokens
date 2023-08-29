@@ -1,0 +1,213 @@
+color:
+  border:
+    base:
+      light:
+        high_emphasis:
+          value:
+            r: 20
+            g: 20
+            b: 20
+            a: 0.3
+          attributes:
+            category: color
+            type: border
+            item: base
+            subitem: light
+        mid_emphasis:
+          value:
+            r: 20
+            g: 20
+            b: 20
+            a: 0.2
+          attributes:
+            category: color
+            type: border
+            item: base
+            subitem: light
+        low_emphasis:
+          value:
+            r: 20
+            g: 20
+            b: 20
+            a: 0.1
+          attributes:
+            category: color
+            type: border
+            item: base
+            subitem: light
+        positive:
+          value: '{color.semantic.positive.600.value}'
+          attributes:
+            category: color
+            type: text
+            item: base
+            subitem: light
+        notice:
+          value: '{color.semantic.notice.600.value}'
+          attributes:
+            category: color
+            type: text
+            item: base
+            subitem: light
+        negative:
+          value: '{color.semantic.negative.600.value}'
+          attributes:
+            category: color
+            type: text
+            item: base
+            subitem: light
+      dark:
+        high_emphasis:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 0.3
+          attributes:
+            category: color
+            type: border
+            item: base
+            subitem: dark
+        mid_emphasis:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 0.2
+          attributes:
+            category: color
+            type: border
+            item: base
+            subitem: dark
+        low_emphasis:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 0.1
+          attributes:
+            category: color
+            type: border
+            item: base
+            subitem: dark
+        positive:
+          value: '{color.semantic.positive.500.value}'
+          attributes:
+            category: color
+            type: text
+            item: base
+            subitem: dark
+        notice:
+          value: '{color.semantic.notice.500.value}'
+          attributes:
+            category: color
+            type: text
+            item: base
+            subitem: dark
+        negative:
+          value: '{color.semantic.negative.500.value}'
+          attributes:
+            category: color
+            type: text
+            item: base
+            subitem: dark
+    avatar:
+      value: transparent
+      attributes:
+        category: color
+        type: border
+        item: avatar
+    interactive-list:
+      value: '{color.border.base.light.mid_emphasis.value}'
+      attributes:
+        category: color
+        type: border
+        item: interactive-list
+    interactive-table:
+      header:
+        value: '{color.border.base.light.high_emphasis.value}'
+        attributes:
+          category: color
+          type: border
+          item: interactive-table
+          subitem: header
+      data:
+        value: '{color.border.base.light.mid_emphasis.value}'
+        attributes:
+          category: color
+          type: border
+          item: interactive-table
+          subitem: data
+    side-navigation:
+      value: '{color.border.base.light.mid_emphasis.value}'
+      attributes:
+        category: color
+        type: border
+        item: side-navigation
+    field:
+      neutral:
+        enabled:
+          value: "{color.semantic.neutral.400.value}"
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: neutral
+            state: enabled
+        hover:
+          value: "{color.semantic.neutral.600.value}"
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: neutral
+            state: hover
+        focused:
+          value: "{color.semantic.neutral.700.value}"
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: neutral
+            state: focused
+        disabled:
+          value: "{color.semantic.neutral.400.value}"
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: neutral
+            state: disabled
+      negative:
+        enabled:
+          value: "{color.semantic.negative.400.value}"
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: negative
+            state: enabled
+        hover:
+          value: "{color.semantic.negative.600.value}"
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: negative
+            state: hover
+        focused:
+          value: "{color.semantic.negative.700.value}"
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: negative
+            state: focused
+        disabled:
+          value: "{color.semantic.negative.400.value}"
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: negative
+            state: disabled

@@ -1,0 +1,20 @@
+size:
+  boundary:
+    s:
+      value: 540
+      attributes:
+        category: boundary
+        type: boundary
+        item: s
+    m:
+      value: 720
+      attributes:
+        category: boundary
+        type: boundary
+        item: m
+    l:
+      value: 1280
+      attributes:
+        category: boundary
+        type: boundary
+        item: l

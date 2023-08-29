@@ -1,0 +1,19 @@
+{
+  "name": "@pepabo-inhouse/tokens",
+  "version": "0.14.0",
+  "description": "Inhouse tokens",
+  "files": [
+    "build/"
+  ],
+  "scripts": {
+    "compile": "style-dictionary build --config ./config/pepper.js && style-dictionary build --config ./config/nachiguro.js && style-dictionary build --config ./config/flippers.js && style-dictionary build --config ./config/kung-pu.js && style-dictionary build --config ./config/minne.js",
+    "clean": "rm -rf ./build",
+    "build": "npm run clean && npm run compile",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "handlebars": "4.7.8",
+    "style-dictionary": "3.7.1",
+    "yaml": "2.3.1"
+  }
+}

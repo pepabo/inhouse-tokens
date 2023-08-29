@@ -1,0 +1,286 @@
+color:
+  overlay:
+    background:
+      light:
+        enabled:
+          value:
+            r: 20
+            g: 20
+            b: 20
+            a: 0
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: light
+            state: enabled
+        hover:
+          value:
+            r: 20
+            g: 20
+            b: 20
+            a: 0.04
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: light
+            state: hover
+        focused:
+          value:
+            r: 20
+            g: 20
+            b: 20
+            a: 0.12
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: light
+            state: focused
+        selected:
+          value:
+            r: 59
+            g: 130
+            b: 201
+            a: 0.08
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: light
+            state: selected
+        mixed:
+          value:
+            r: 59
+            g: 130
+            b: 201
+            a: 0.08
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: light
+            state: mixed
+        activated:
+          value:
+            r: 59
+            g: 130
+            b: 201
+            a: 0.12
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: light
+            state: activated
+        dragged:
+          value:
+            r: 20
+            g: 20
+            b: 20
+            a: 0.08
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: light
+            state: dragged
+        disabled:
+          value:
+            r: 20
+            g: 20
+            b: 20
+            a: 0
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: light
+            state: disabled
+      dark:
+        enabled:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 0
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: dark
+            state: enabled
+        hover:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 0.08
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: dark,
+            state: hover
+        focused:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 0.24
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: dark
+            state: focused
+        selected:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 0.16
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: dark
+            state: selected
+        mixed:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 0.16
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: dark
+            state: mixed
+        activated:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 0.24
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: dark
+            state: activated
+        dragged:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 0.16
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: dark
+            state: dragged
+        disabled:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 0
+          attributes:
+            category: color
+            type: overlay
+            item: background
+            subitem: dark
+            state: disabled
+    image:
+      enabled:
+        value:
+          r: 20
+          g: 20
+          b: 20
+          a: 0
+        attributes:
+          category: color
+          type: overlay
+          item: image
+          state: enabled
+      hover:
+        value:
+          r: 20
+          g: 20
+          b: 20
+          a: 0.12
+        attributes:
+          category: color
+          type: overlay
+          item: image
+          state: hover
+      focused:
+        value:
+          r: 20
+          g: 20
+          b: 20
+          a: 0.36
+        attributes:
+          category: color
+          type: overlay
+          item: image
+          state: focused
+      selected:
+        value:
+          r: 20
+          g: 20
+          b: 20
+          a: 0.24
+        attributes:
+          category: color
+          type: overlay
+          item: image
+          state: selected
+      mixed:
+        value:
+          r: 20
+          g: 20
+          b: 20
+          a: 0.24
+        attributes:
+          category: color
+          type: overlay
+          item: image
+          state: mixed
+      activated:
+        value:
+          r: 20
+          g: 20
+          b: 20
+          a: 0.36
+        attributes:
+          category: color
+          type: overlay
+          item: image
+          state: activated
+      dragged:
+        value:
+          r: 20
+          g: 20
+          b: 20
+          a: 0.32
+        attributes:
+          category: color
+          type: overlay
+          item: image
+          state: dragged
+      disabled:
+        value:
+          r: 20
+          g: 20
+          b: 20
+          a: 0
+        attributes:
+          category: color
+          type: overlay
+          item: image
+          state: disabled

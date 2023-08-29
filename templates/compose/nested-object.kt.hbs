@@ -1,0 +1,44 @@
+{{fileHeader file 'short'}}
+
+package {{file.packageName}}
+
+{{! Ideally we would selectively import the correct classes & functions based on whether the applied transforms actually need them. }}
+import androidx.compose.ui.graphics.Color
+
+enum class Semantic {
+    INFORMATIVE,
+    NEUTRAL,
+    POSITIVE,
+    NOTICE,
+    NEGATIVE,
+    ATTENTION,
+    INTERACTIVE,
+    FAVORITE,
+}
+
+enum class Val {
+    BLACK,
+    WHITE,
+    GRAY,
+    BLUE,
+    GREEN,
+    YELLOW,
+    RED,
+    ORANGE,
+}
+
+{{#each dictionary.properties}}
+object {{../file.classPrefix}}{{capitalCase @key}} {
+  {{#each this as |value name|}}
+    val {{capitalCase name}} = mapOf(
+    {{#each value}}
+        {{capitalCase name}}.{{constantCase @key}} to mapOf(
+      {{#each this}}
+            {{@key}} to {{this.value}},
+      {{/each}}
+        ),
+    {{/each}}
+    )
+  {{/each}}
+}
+{{/each}}

@@ -1,0 +1,155 @@
+color:
+  implication:
+    interactive:
+      50:
+        value: '{color.primitive.blue.50.value}'
+        attributes:
+          category: color
+          type: implication
+      100:
+        value: '{color.primitive.blue.100.value}'
+        attributes:
+          category: color
+          type: implication
+      200:
+        value: '{color.primitive.blue.200.value}'
+        attributes:
+          category: color
+          type: implication
+      300:
+        value: '{color.primitive.blue.300.value}'
+        attributes:
+          category: color
+          type: implication
+      400:
+        value: '{color.primitive.blue.400.value}'
+        attributes:
+          category: color
+          type: implication
+      500:
+        value: '{color.primitive.blue.500.value}'
+        attributes:
+          category: color
+          type: implication
+      600:
+        value: '{color.primitive.blue.600.value}'
+        attributes:
+          category: color
+          type: implication
+      700:
+        value: '{color.primitive.blue.700.value}'
+        attributes:
+          category: color
+          type: implication
+      800:
+        value: '{color.primitive.blue.800.value}'
+        attributes:
+          category: color
+          type: implication
+      900:
+        value: '{color.primitive.blue.900.value}'
+        attributes:
+          category: color
+          type: implication
+    favorite:
+      50:
+        value: '{color.primitive.red.50.value}'
+        attributes:
+          category: color
+          type: implication
+      100:
+        value: '{color.primitive.red.100.value}'
+        attributes:
+          category: color
+          type: implication
+      200:
+        value: '{color.primitive.red.200.value}'
+        attributes:
+          category: color
+          type: implication
+      300:
+        value: '{color.primitive.red.300.value}'
+        attributes:
+          category: color
+          type: implication
+      400:
+        value: '{color.primitive.red.400.value}'
+        attributes:
+          category: color
+          type: implication
+      500:
+        value: '{color.primitive.red.500.value}'
+        attributes:
+          category: color
+          type: implication
+      600:
+        value: '{color.primitive.red.600.value}'
+        attributes:
+          category: color
+          type: implication
+      700:
+        value: '{color.primitive.red.700.value}'
+        attributes:
+          category: color
+          type: implication
+      800:
+        value: '{color.primitive.red.800.value}'
+        attributes:
+          category: color
+          type: implication
+      900:
+        value: '{color.primitive.red.900.value}'
+        attributes:
+          category: color
+          type: implication
+    rate:
+      50:
+        value: '{color.primitive.amber.50.value}'
+        attributes:
+          category: color
+          type: implication
+      100:
+        value: '{color.primitive.amber.100.value}'
+        attributes:
+          category: color
+          type: implication
+      200:
+        value: '{color.primitive.amber.200.value}'
+        attributes:
+          category: color
+          type: implication
+      300:
+        value: '{color.primitive.amber.300.value}'
+        attributes:
+          category: color
+          type: implication
+      400:
+        value: '{color.primitive.amber.400.value}'
+        attributes:
+          category: color
+          type: implication
+      500:
+        value: '{color.primitive.amber.500.value}'
+        attributes:
+          category: color
+          type: implication
+      600:
+        value: '{color.primitive.amber.600.value}'
+        attributes:
+          category: color
+          type: implication
+      700:
+        value: '{color.primitive.amber.700.value}'
+        attributes:
+          category: color
+          type: implication
+      800:
+        value: '{color.primitive.amber.800.value}'
+        attributes:
+          category: color
+          type: implication
+      900:
+        value: '{color.primitive.amber.900.value}'
+        attributes:
+          category: color
+          type: implication

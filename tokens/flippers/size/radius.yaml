@@ -1,0 +1,65 @@
+size:
+  radius:
+    base:
+      m:
+        value: '{size.scale.4.value}'
+        attributes:
+          category: size
+          type: radius
+          item: base
+          subitem: m
+      l:
+        value: '{size.scale.8.value}'
+        attributes:
+          category: size
+          type: radius
+          item: base
+          subitem: l
+      xl:
+        value: '{size.scale.12.value}'
+        attributes:
+          category: size
+          type: radius
+          item: base
+          subitem: xl
+    avatar:
+      xs:
+        value: '{size.scale.12.value}'
+        attributes:
+          category: size
+          type: radius
+          item: avatar
+          subitem: xs
+      s:
+        value: '{size.scale.16.value}'
+        attributes:
+          category: size
+          type: radius
+          item: avatar
+          subitem: s
+      m:
+        value: '{size.scale.20.value}'
+        attributes:
+          category: size
+          type: radius
+          item: avatar
+          subitem: m
+      l:
+        value: '{size.scale.28.value}'
+        attributes:
+          category: size
+          type: radius
+          item: avatar
+          subitem: l
+    button:
+      value: '{size.radius.base.m.value}'
+      attributes:
+        category: size
+        type: radius
+        item: button
+    thumbnail:
+      value: 0
+      attributes:
+        category: size
+        type: radius
+        item: thumbnail

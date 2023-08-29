@@ -1,0 +1,81 @@
+size:
+  spacing:
+    base:
+      xxs:
+        value: '{size.scale.4.value}'
+        attributes:
+          category: size
+          type: spacing
+          item: base
+          subitem: xxs
+      xs:
+        value: '{size.scale.8.value}'
+        attributes:
+          category: size
+          type: spacing
+          item: base
+          subitem: xs
+      s:
+        value: '{size.scale.12.value}'
+        attributes:
+          category: size
+          type: spacing
+          item: base
+          subitem: s
+      m:
+        value: '{size.scale.16.value}'
+        attributes:
+          category: size
+          type: spacing
+          item: base
+          subitem: m
+      l:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: spacing
+          item: base
+          subitem: l
+      xl:
+        value: '{size.scale.32.value}'
+        attributes:
+          category: size
+          type: spacing
+          item: base
+          subitem: xl
+      xxl:
+        value: '{size.scale.48.value}'
+        attributes:
+          category: size
+          type: spacing
+          item: base
+          subitem: xxl
+    cell:
+      vertical:
+        dense:
+          value: '{size.spacing.base.xxs.value}'
+          attributes:
+            category: size
+            type: spacing
+            item: cell
+            subitem: vertical
+        normal:
+          value: '{size.spacing.base.s.value}'
+          attributes:
+            category: size
+            type: spacing
+            item: cell
+            subitem: vertical
+        comfort:
+          value: '{size.spacing.base.m.value}'
+          attributes:
+            category: size
+            type: spacing
+            item: cell
+            subitem: vertical
+    interactive-list:
+      value: '{size.spacing.base.xs.value}'
+      attributes:
+        category: size
+        type: spacing
+        item: interactive-list

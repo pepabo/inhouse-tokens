@@ -1,0 +1,281 @@
+color:
+  surface:
+    base:
+      light:
+        primary:
+          value: '{color.primitive.white.1000.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: light
+        secondary:
+          value: '{color.primitive.gray.50.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: light
+        tertiary:
+          value: '{color.primitive.gray.100.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: light
+      dark:
+        primary:
+          value: '{color.primitive.gray.800.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: light
+        secondary:
+          value: '{color.primitive.gray.700.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: light
+        tertiary:
+          value: '{color.primitive.gray.600.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: light
+      brand:
+        primary:
+          value: '{color.primitive.blue.600.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: brand
+        secondary:
+          value: '{color.primitive.blue.500.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: brand
+        tertiary:
+          value: '{color.primitive.blue.400.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: brand
+      accent:
+        primary:
+          value: '{color.primitive.red.200.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: accent
+        secondary:
+          value: '{color.primitive.red.300.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: accent
+        tertiary:
+          value: '{color.primitive.red.400.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: accent
+    avatar:
+      value: '{color.surface.base.light.secondary.value}'
+      attributes:
+        category: color
+        type: surface
+        item: avatar
+    bottom-navigation:
+      white:
+        value: '{color.surface.base.light.primary.value}'
+        attributes:
+          category: color
+          type: surface
+          item: bottom-navigation
+          subitem: white
+      filled:
+        value: '{color.primitive.blue.600.value}'
+        attributes:
+          category: color
+          type: surface
+          item: bottom-navigation
+          subitem: filled
+    button:
+      solid:
+        scrim:
+          start:
+            value:
+              r: 255
+              g: 255
+              b: 255
+              a: 0
+            attributes:
+              category: color
+              type: surface
+              item: button
+              subitem: scrim
+          end:
+            value:
+              r: 255
+              g: 255
+              b: 255
+              a: 0
+            attributes:
+              category: color
+              type: surface
+              item: button
+              subitem: scrim
+    checkbox:
+      enabled:
+        value: '{color.surface.base.light.primary.value}'
+        attributes:
+          category: color
+          type: surface
+          item: checkbox
+          state: enabled
+      selected:
+        value: '{color.semantic.informative.600.value}'
+        attributes:
+          category: color
+          type: surface
+          item: checkbox
+          state: selected
+      mixed:
+        value: '{color.semantic.informative.600.value}'
+        attributes:
+          category: color
+          type: surface
+          item: checkbox
+          state: mixed
+    header:
+      white:
+        value: '{color.surface.base.light.primary.value}'
+        attributes:
+          category: color
+          type: surface
+          item: header
+          subitem: white
+      filled:
+        value: '{color.primitive.blue.600.value}'
+        attributes:
+          category: color
+          type: surface
+          item: header
+          subitem: filled
+    progress-indicator:
+      track:
+        value: '{color.semantic.informative.100.value}'
+        attributes:
+          category: color
+          type: surface
+          item: progress-indicator
+          subitem: track
+      indicator:
+        value: '{color.semantic.informative.500.value}'
+        attributes:
+          category: color
+          type: surface
+          item: progress-indicator
+          subitem: indicator
+    radio:
+      enabled:
+        value: '{color.surface.base.light.primary.value}'
+        attributes:
+          category: color
+          type: surface
+          item: radio
+          state: enabled
+      selected:
+        value: '{color.semantic.informative.600.value}'
+        attributes:
+          category: color
+          type: surface
+          item: radio
+          state: selected
+    skeleton:
+      value:
+        r: 0
+        g: 0
+        b: 0
+        a: 0.2
+      attributes:
+        category: color
+        type: surface
+        item: skeleton
+    field:
+      neutral:
+        enabled:
+          value: "{color.semantic.neutral.50.value}"
+          attributes:
+            category: color
+            type: surface
+            item: field
+            subitem: neutral
+            state: enabled
+        hover:
+          value: "{color.semantic.neutral.100.value}"
+          attributes:
+            category: color
+            type: surface
+            item: field
+            subitem: neutral
+            state: hover
+        focused:
+          value: "{color.primitive.white.1000.value}"
+          attributes:
+            category: color
+            type: surface
+            item: field
+            subitem: neutral
+            state: focused
+        disabled:
+          value: "{color.semantic.neutral.200.value}"
+          attributes:
+            category: color
+            type: surface
+            item: field
+            subitem: neutral
+            state: disabled
+      negative:
+        enabled:
+          value: "{color.semantic.negative.50.value}"
+          attributes:
+            category: color
+            type: surface
+            item: field
+            subitem: negative
+            state: enabled
+        hover:
+          value: "{color.semantic.negative.100.value}"
+          attributes:
+            category: color
+            type: surface
+            item: field
+            subitem: negative
+            state: hover
+        focused:
+          value: "{color.primitive.white.1000.value}"
+          attributes:
+            category: color
+            type: surface
+            item: field
+            subitem: negative
+            state: focused
+        disabled:
+          value: "{color.semantic.negative.200.value}"
+          attributes:
+            category: color
+            type: surface
+            item: field
+            subitem: negative
+            state: disabled

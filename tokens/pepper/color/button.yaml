@@ -1,0 +1,31 @@
+color:
+  button:
+    base:
+      neutral:
+        value: '{color.semantic.neutral.700.value}'
+        attributes:
+          category: color
+          type: button
+          item: base
+          subitem: neutral
+      negative:
+        value: '{color.semantic.negative.600.value}'
+        attributes:
+          category: color
+          type: button
+          item: base
+          subitem: negative
+      interactive:
+        value: '{color.implication.interactive.600.value}'
+        attributes:
+          category: color
+          type: button
+          item: base
+          subitem: interactive
+      favorite:
+        value: '{color.implication.favorite.600.value}'
+        attributes:
+          category: color
+          type: button
+          item: base
+          subitem: favorite
