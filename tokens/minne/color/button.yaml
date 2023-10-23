@@ -2,7 +2,7 @@ color:
   button:
     base:
       neutral:
-        value: '{color.semantic.neutral.700.value}'
+        value: '{color.semantic.neutral.900.value}'
         attributes:
           category: color
           type: button
