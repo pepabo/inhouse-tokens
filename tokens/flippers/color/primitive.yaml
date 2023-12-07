@@ -450,8 +450,8 @@ color:
           type: val
       700:
         value:
-          r: 199
-          g: 148
+          r: 201
+          g: 150
           b: 20
           a: 1
         attributes:
@@ -468,9 +468,9 @@ color:
           type: val
       900:
         value:
-          r: 142
-          g: 101
-          b: 11
+          r: 143
+          g: 94
+          b: 13
           a: 1
         attributes:
           category: color
@@ -715,8 +715,8 @@ color:
       600:
         value:
           r: 11
-          g: 163
-          b: 172
+          g: 162
+          b: 170
           a: 1
         attributes:
           category: color
@@ -724,7 +724,7 @@ color:
       700:
         value:
           r: 2
-          g: 129
+          g: 130
           b: 137
           a: 1
         attributes:
@@ -742,7 +742,7 @@ color:
       900:
         value:
           r: 0
-          g: 70
+          g: 71
           b: 75
           a: 1
         attributes:
