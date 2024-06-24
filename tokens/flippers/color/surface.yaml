@@ -10,7 +10,7 @@ color:
             item: base
             subitem: light
         secondary:
-          value: '{color.primitive.gray.50.value}'
+          value: '{color.primitive.gray.100.value}'
           attributes:
             category: color
             type: surface
