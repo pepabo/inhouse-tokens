@@ -1,0 +1,103 @@
+size:
+  border:
+    base:
+      m:
+        value: '{size.scale.1.value}'
+        attributes:
+          category: size
+          type: border
+          item: base
+          subitem: m
+      l:
+        value: '{size.scale.2.value}'
+        attributes:
+          category: size
+          type: border
+          item: base
+          subitem: l
+      xl:
+        value: '{size.scale.4.value}'
+        attributes:
+          category: size
+          type: border
+          item: base
+          subitem: xl
+    avatar:
+      value: 0
+      attributes:
+        category: size
+        type: border
+        item: avatar
+    button:
+      flat:
+        value: '{size.border.base.m.value}'
+        attributes:
+          category: size
+          type: border
+          item: button
+          subitem: flat
+      outlined:
+        value: '{size.border.base.m.value}'
+        attributes:
+          category: size
+          type: border
+          item: button
+          subitem: outlined
+      solid:
+        value: '{size.border.base.m.value}'
+        attributes:
+          category: size
+          type: border
+          item: button
+          subitem: solid
+      white:
+        value: '{size.border.base.m.value}'
+        attributes:
+          category: size
+          type: border
+          item: button
+          subitem: white
+      transparent:
+        value: '{size.border.base.m.value}'
+        attributes:
+          category: size
+          type: border
+          item: button
+          subitem: transparent
+      hollow:
+        value: '{size.border.base.l.value}'
+        attributes:
+          category: size
+          type: border
+          item: button
+          subitem: hollow
+    checkbox:
+      value: '{size.border.base.m.value}'
+      attributes:
+        category: size
+        type: border
+        item: checkbox
+    focus-ring:
+      value: "{size.border.base.xl.value}"
+      attributes:
+        category: size
+        type: border
+        item: focus-ring
+    progress-indicator:
+      value: "{size.border.base.xl.value}"
+      attributes:
+        category: size
+        type: border
+        item: progress-indicator
+    radio:
+      value: '{size.border.base.m.value}'
+      attributes:
+        category: size
+        type: border
+        item: radio
+    table:
+      value: '{size.border.base.m.value}'
+      attributes:
+        category: size
+        type: border
+        item: table

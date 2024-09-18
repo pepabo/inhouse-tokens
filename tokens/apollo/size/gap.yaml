@@ -1,0 +1,45 @@
+size:
+  gap:
+    base:
+      xxs:
+        value: '{size.spacing.base.m.value}'
+        attributes:
+          category: size
+          type: gap
+          item: base
+          subitem: xxs
+      xs:
+        value: '{size.spacing.base.m.value}'
+        attributes:
+          category: size
+          type: gap
+          item: base
+          subitem: xs
+      s:
+        value: '{size.spacing.base.m.value}'
+        attributes:
+          category: size
+          type: gap
+          item: base
+          subitem: s
+      m:
+        value: '{size.spacing.base.l.value}'
+        attributes:
+          category: size
+          type: gap
+          item: base
+          subitem: m
+      l:
+        value: '{size.spacing.base.l.value}'
+        attributes:
+          category: size
+          type: gap
+          item: base
+          subitem: l
+      xl:
+        value: '{size.spacing.base.l.value}'
+        attributes:
+          category: size
+          type: gap
+          item: base
+          subitem: xl

@@ -1,0 +1,8 @@
+opacity:
+  border:
+    focus-ring:
+      value: 0.15
+      attributes:
+        category: opacity
+        type: border
+        item: focus-ring

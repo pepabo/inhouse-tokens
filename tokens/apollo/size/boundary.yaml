@@ -1,0 +1,38 @@
+size:
+  boundary:
+    xxs:
+      value: 330
+      attributes:
+        category: boundary
+        type: boundary
+        item: xxs
+    xs:
+      value: 370
+      attributes:
+        category: boundary
+        type: boundary
+        item: xs
+    s:
+      value: 600
+      attributes:
+        category: boundary
+        type: boundary
+        item: s
+    m:
+      value: 800
+      attributes:
+        category: boundary
+        type: boundary
+        item: m
+    l:
+      value: 1100
+      attributes:
+        category: boundary
+        type: boundary
+        item: l
+    xl:
+      value: 1400
+      attributes:
+        category: boundary
+        type: boundary
+        item: xl

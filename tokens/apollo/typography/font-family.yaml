@@ -1,0 +1,39 @@
+typography:
+  font-family:
+    sans-latin:
+      value: "'Open Sans'"
+      attributes:
+        category: typography
+        type: font-family
+        item: sans-latin
+    sans-japanese:
+      value: "'Noto Sans JP'"
+      attributes:
+        category: typography
+        type: font-family
+        item: sans-japanese
+    sans-japanese-kerning:
+      value: "YakuHanJP_Noto, 'Noto Sans JP'"
+      attributes:
+        category: typography
+        type: font-family
+        item: sans-japanese-kerning
+    monospace:
+      value: "'Roboto Mono'"
+      attributes:
+        category: typography
+        type: font-family
+        item: monospace
+    icon:
+      value: "'Inhouse Icons'"
+      attributes:
+        category: typography
+        type: font-family
+        item: icon
+    ui:
+      value: "apple-system, BlinkMacSystemFont, Roboto, 'Lucida Grande', Helvetica, Arial"
+      attributes:
+        category: typography
+        type: font-family
+        item: ui
+

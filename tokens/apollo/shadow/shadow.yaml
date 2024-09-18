@@ -1,0 +1,379 @@
+shadow:
+  button:
+    solid:
+      highlight:
+        value:
+          x: 0
+          y: 0.0625
+          blur: 0.0625
+          spread: 0
+          color:
+            r: 255
+            g: 255
+            b: 255
+          alpha: 0.5
+        attributes:
+          category: shadow
+          type: shadow
+          item: button
+          subitem: solid
+      shadow:
+        value:
+          x: 0
+          y: -0.0625
+          blur: 0.0625
+          spread: 0
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.1
+        attributes:
+          category: shadow
+          type: shadow
+          item: button
+          subitem: solid
+  elevation:
+    0:
+      key-light:
+        value:
+          x: 0
+          y: 0
+          blur: 0
+          spread: 0
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 0
+      ambient-light:
+        value:
+          x: 0
+          y: 0
+          blur: 0
+          spread: 0
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 0
+      adjustment:
+        value:
+          x: 0
+          y: 0
+          blur: 0
+          spread: 0
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 0
+    1:
+      key-light:
+        value:
+          x: 0
+          y: -0.00625
+          blur: 0.0625
+          spread: 0
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.12
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 1
+      ambient-light:
+        value:
+          x: 0
+          y: 0.0625
+          blur: 0.125
+          spread: 0
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.12
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 1
+      adjustment:
+        value:
+          x: 0
+          y: 0
+          blur: 0
+          spread: 0
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 1
+    2:
+      key-light:
+        value:
+          x: 0
+          y: 0
+          blur: 0.25
+          spread: 0
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.12
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 2
+      ambient-light:
+        value:
+          x: 0
+          y: 0.25
+          blur: 0.375
+          spread: -0.125
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.12
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 2
+      adjustment:
+        value:
+          x: 0
+          y: 0
+          blur: 0
+          spread: 0
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 2
+    3:
+      key-light:
+        value:
+          x: 0
+          y: 0
+          blur: 0.375
+          spread: 0
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.08
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 3
+      ambient-light:
+        value:
+          x: 0
+          y: 0.375
+          blur: 0.4375
+          spread: -0.5
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.12
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 3
+      adjustment:
+        value:
+          x: 0
+          y: 0.375
+          blur: 1
+          spread: 0.125
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.12
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 3
+    4:
+      key-light:
+        value:
+          x: 0
+          y: 0.125
+          blur: 0.375
+          spread: 0
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.08
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 4
+      ambient-light:
+        value:
+          x: 0
+          y: 0.5
+          blur: 2
+          spread: -0.75
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.12
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 4
+      adjustment:
+        value:
+          x: 0
+          y: 0.625
+          blur: 1.75
+          spread: 0.25
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.12
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 4
+    5:
+      key-light:
+        value:
+          x: 0
+          y: 0.25
+          blur: 1
+          spread: -1
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.28
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 5
+      ambient-light:
+        value:
+          x: 0
+          y: 0.75
+          blur: 4
+          spread: -1.25
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.2
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 5
+      adjustment:
+        value:
+          x: 0
+          y: 1
+          blur: 3
+          spread: -0.5
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.24
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 5
+    6:
+      key-light:
+        value:
+          x: 0
+          y: 0.25
+          blur: 2.5
+          spread: -1.75
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.32
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 6
+      ambient-light:
+        value:
+          x: 0
+          y: 1
+          blur: 4.5
+          spread: -1.5
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.24
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 6
+      adjustment:
+        value:
+          x: 0
+          y: 1.5
+          blur: 4
+          spread: -0.75
+          color:
+            r: 0
+            g: 0
+            b: 0
+          alpha: 0.28
+        attributes:
+          category: shadow
+          type: shadow
+          item: elevation
+          subitem: 6

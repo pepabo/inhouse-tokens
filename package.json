@@ -6,7 +6,7 @@
     "build/"
   ],
   "scripts": {
-    "compile": "style-dictionary build --config ./config/pepper.js && style-dictionary build --config ./config/nachiguro.js && style-dictionary build --config ./config/flippers.js && style-dictionary build --config ./config/kung-pu.js && style-dictionary build --config ./config/minne.js",
+    "compile": "style-dictionary build --config ./config/pepper.js && style-dictionary build --config ./config/nachiguro.js && style-dictionary build --config ./config/flippers.js && style-dictionary build --config ./config/kung-pu.js && style-dictionary build --config ./config/minne.js && style-dictionary build --config ./config/apollo.js",
     "clean": "rm -rf ./build",
     "build": "npm run clean && npm run compile",
     "prepublishOnly": "npm run build"
