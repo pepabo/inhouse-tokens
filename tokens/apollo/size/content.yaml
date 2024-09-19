@@ -1,0 +1,32 @@
+size:
+  content:
+    xs:
+      value: 480
+      attributes:
+        category: content
+        type: content
+        item: xs
+    s:
+      value: 640
+      attributes:
+        category: content
+        type: content
+        item: s
+    m:
+      value: 960
+      attributes:
+        category: content
+        type: content
+        item: m
+    l:
+      value: 1200
+      attributes:
+        category: content
+        type: content
+        item: l
+    xl:
+      value: 1440
+      attributes:
+        category: content
+        type: content
+        item: xl

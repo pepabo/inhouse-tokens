@@ -1,0 +1,190 @@
+size:
+  width:
+    avatar:
+      xs:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: width
+          item: avatar
+          subitem: xs
+      s:
+        value: '{size.scale.32.value}'
+        attributes:
+          category: size
+          type: width
+          item: avatar
+          subitem: s
+      m:
+        value: '{size.scale.40.value}'
+        attributes:
+          category: size
+          type: width
+          item: avatar
+          subitem: m
+      l:
+        value: '{size.scale.56.value}'
+        attributes:
+          category: size
+          type: width
+          item: avatar
+          subitem: l
+    bottom-navigation:
+      pict:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: width
+          item: bottom-navigation
+          subitem: pict
+    button:
+      pict:
+        icon-only:
+          xs:
+            value: '{size.scale.16.value}'
+            attributes:
+              category: size
+              type: width
+              item: button
+              subitem: pict
+          s:
+            value: '{size.scale.16.value}'
+            attributes:
+              category: size
+              type: width
+              item: button
+              subitem: pict
+          m:
+            value: '{size.scale.24.value}'
+            attributes:
+              category: size
+              type: width
+              item: button
+              subitem: pict
+          l:
+            value: '{size.scale.24.value}'
+            attributes:
+              category: size
+              type: width
+              item: button
+              subitem: pict
+          xl:
+            value: '{size.scale.24.value}'
+            attributes:
+              category: size
+              type: width
+              item: button
+              subitem: pict
+    checkbox:
+      parent:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: width
+          item: checkbox
+          subitem: parent
+      child:
+        value: '{size.scale.20.value}'
+        attributes:
+          category: size
+          type: width
+          item: checkbox
+          subitem: child
+    description-list:
+      leading:
+        value: '{size.scale.48.value}'
+        attributes:
+          category: size
+          type: width
+          item: description-list
+          subitem: leading
+    interactive-list:
+      pict:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: width
+          item: interactive-list
+          subitem: pict
+      edge-element:
+        value: '{size.scale.32.value}'
+        attributes:
+          category: size
+          type: width
+          item: interactive-list
+          subitem: edge-element
+    interactive-table:
+      pict:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: width
+          item: interactive-table
+          subitem: pict
+    list:
+      leading:
+        value: '{size.scale.40.value}'
+        attributes:
+          category: size
+          type: width
+          item: list
+          subitem: leading
+    progress-indicator:
+      circular:
+        value: "{size.scale.48.value}"
+        attributes:
+          category: size
+          type: width
+          item: progress-indicator
+          subitem: circular
+    radio:
+      parent:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: width
+          item: radio
+          subitem: parent
+      child:
+        background:
+          value: '{size.scale.20.value}'
+          attributes:
+            category: size
+            type: width
+            item: radio
+            subitem: child
+        foreground:
+          value: '{size.scale.12.value}'
+          attributes:
+            category: size
+            type: width
+            item: radio
+            subitem: child
+    side-navigation:
+      value: '{size.scale.256.value}'
+      attributes:
+        category: size
+        type: width
+        item: side-navigation
+    thumbnail:
+      s:
+        value: '{size.scale.40.value}'
+        attributes:
+          category: size
+          type: width
+          item: thumbnail
+          subitem: s
+      m:
+        value: '{size.scale.56.value}'
+        attributes:
+          category: size
+          type: width
+          item: thumbnail
+          subitem: m
+      l:
+        value: '{size.scale.72.value}'
+        attributes:
+          category: size
+          type: width
+          item: thumbnail
+          subitem: l

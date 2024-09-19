@@ -1,0 +1,155 @@
+color:
+  implication:
+    interactive:
+      50:
+        value: '{color.primitive.purple.50.value}'
+        attributes:
+          category: color
+          type: implication
+      100:
+        value: '{color.primitive.purple.100.value}'
+        attributes:
+          category: color
+          type: implication
+      200:
+        value: '{color.primitive.purple.200.value}'
+        attributes:
+          category: color
+          type: implication
+      300:
+        value: '{color.primitive.purple.300.value}'
+        attributes:
+          category: color
+          type: implication
+      400:
+        value: '{color.primitive.purple.400.value}'
+        attributes:
+          category: color
+          type: implication
+      500:
+        value: '{color.primitive.purple.500.value}'
+        attributes:
+          category: color
+          type: implication
+      600:
+        value: '{color.primitive.purple.600.value}'
+        attributes:
+          category: color
+          type: implication
+      700:
+        value: '{color.primitive.purple.700.value}'
+        attributes:
+          category: color
+          type: implication
+      800:
+        value: '{color.primitive.purple.800.value}'
+        attributes:
+          category: color
+          type: implication
+      900:
+        value: '{color.primitive.purple.900.value}'
+        attributes:
+          category: color
+          type: implication
+    favorite:
+      50:
+        value: '{color.primitive.pink.50.value}'
+        attributes:
+          category: color
+          type: implication
+      100:
+        value: '{color.primitive.pink.100.value}'
+        attributes:
+          category: color
+          type: implication
+      200:
+        value: '{color.primitive.pink.200.value}'
+        attributes:
+          category: color
+          type: implication
+      300:
+        value: '{color.primitive.pink.300.value}'
+        attributes:
+          category: color
+          type: implication
+      400:
+        value: '{color.primitive.pink.400.value}'
+        attributes:
+          category: color
+          type: implication
+      500:
+        value: '{color.primitive.pink.500.value}'
+        attributes:
+          category: color
+          type: implication
+      600:
+        value: '{color.primitive.pink.600.value}'
+        attributes:
+          category: color
+          type: implication
+      700:
+        value: '{color.primitive.pink.700.value}'
+        attributes:
+          category: color
+          type: implication
+      800:
+        value: '{color.primitive.pink.800.value}'
+        attributes:
+          category: color
+          type: implication
+      900:
+        value: '{color.primitive.pink.900.value}'
+        attributes:
+          category: color
+          type: implication
+    rate:
+      50:
+        value: '{color.primitive.yellow.50.value}'
+        attributes:
+          category: color
+          type: implication
+      100:
+        value: '{color.primitive.yellow.100.value}'
+        attributes:
+          category: color
+          type: implication
+      200:
+        value: '{color.primitive.yellow.200.value}'
+        attributes:
+          category: color
+          type: implication
+      300:
+        value: '{color.primitive.yellow.300.value}'
+        attributes:
+          category: color
+          type: implication
+      400:
+        value: '{color.primitive.yellow.400.value}'
+        attributes:
+          category: color
+          type: implication
+      500:
+        value: '{color.primitive.yellow.500.value}'
+        attributes:
+          category: color
+          type: implication
+      600:
+        value: '{color.primitive.yellow.600.value}'
+        attributes:
+          category: color
+          type: implication
+      700:
+        value: '{color.primitive.yellow.700.value}'
+        attributes:
+          category: color
+          type: implication
+      800:
+        value: '{color.primitive.yellow.800.value}'
+        attributes:
+          category: color
+          type: implication
+      900:
+        value: '{color.primitive.yellow.900.value}'
+        attributes:
+          category: color
+          type: implication

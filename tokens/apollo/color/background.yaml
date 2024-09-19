@@ -1,0 +1,52 @@
+color:
+  background:
+    base:
+      light:
+        base:
+          value: '{color.primitive.white.1000.value}'
+          attributes:
+            category: color
+            type: background
+            item: base
+            subitem: light
+        well:
+          value: '{color.primitive.gray.50.value}'
+          attributes:
+            category: color
+            type: background
+            item: base
+            subitem: light
+      dark:
+        base:
+          value: '{color.primitive.gray.800.value}'
+          attributes:
+            category: color
+            type: background
+            item: base
+            subitem: dark
+      brand:
+        base:
+          value: '{color.primitive.blue.600.value}'
+          attributes:
+            category: color
+            type: background
+            item: base
+            subitem: brand
+      accent:
+        base:
+          value: '{color.primitive.red.200.value}'
+          attributes:
+            category: color
+            type: background
+            item: base
+            subitem: accent
+    scrim:
+      value:
+        r: 0
+        g: 0
+        b: 0
+        a: 0.32
+      attributes:
+        category: color
+        type: background
+        item: scrim
