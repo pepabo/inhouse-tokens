@@ -3,9 +3,9 @@ color:
     black:
       1000:
         value:
-          r: 0
-          g: 0
-          b: 0
+          r: 4
+          g: 19
+          b: 43
           a: 1
         attributes:
           category: color
@@ -23,90 +23,90 @@ color:
     gray:
       50:
         value:
-          r: 247
-          g: 248
-          b: 250
+          r: 242
+          g: 243
+          b: 248
           a: 1
         attributes:
           category: color
           type: val
       100:
         value:
-          r: 237
-          g: 238
-          b: 240
+          r: 217
+          g: 220
+          b: 233
           a: 1
         attributes:
           category: color
           type: val
       200:
         value:
-          r: 222
-          g: 224
-          b: 227
+          r: 193
+          g: 198
+          b: 218
           a: 1
         attributes:
           category: color
           type: val
       300:
         value:
-          r: 200
-          g: 203
-          b: 207
+          r: 169
+          g: 176
+          b: 201
           a: 1
         attributes:
           category: color
           type: val
       400:
         value:
-          r: 175
-          g: 179
-          b: 186
+          r: 146
+          g: 154
+          b: 184
           a: 1
         attributes:
           category: color
           type: val
       500:
         value:
-          r: 146
-          g: 151
-          b: 161
+          r: 124
+          g: 134
+          b: 165
           a: 1
         attributes:
           category: color
           type: val
       600:
         value:
-          r: 118
-          g: 123
-          b: 133
+          r: 103
+          g: 113
+          b: 144
           a: 1
         attributes:
           category: color
           type: val
       700:
         value:
-          r: 88
-          g: 92
-          b: 99
+          r: 84
+          g: 94
+          b: 122
           a: 1
         attributes:
           category: color
           type: val
       800:
         value:
-          r: 57
-          g: 60
-          b: 65
+          r: 66
+          g: 75
+          b: 99
           a: 1
         attributes:
           category: color
           type: val
       900:
         value:
-          r: 31
-          g: 32
-          b: 36
+          r: 50
+          g: 57
+          b: 75
           a: 1
         attributes:
           category: color
@@ -114,8 +114,8 @@ color:
     blue:
       50:
         value:
-          r: 245
-          g: 250
+          r: 238
+          g: 244
           b: 255
           a: 1
         attributes:
@@ -123,8 +123,8 @@ color:
           type: val
       100:
         value:
-          r: 229
-          g: 243
+          r: 202
+          g: 222
           b: 255
           a: 1
         attributes:
@@ -132,63 +132,63 @@ color:
           type: val
       200:
         value:
-          r: 197
-          g: 226
-          b: 252
+          r: 165
+          g: 200
+          b: 255
           a: 1
         attributes:
           category: color
           type: val
       300:
         value:
-          r: 154
-          g: 202
-          b: 245
+          r: 126
+          g: 179
+          b: 250
           a: 1
         attributes:
           category: color
           type: val
       400:
         value:
-          r: 106
-          g: 174
-          b: 235
+          r: 84
+          g: 159
+          b: 240
           a: 1
         attributes:
           category: color
           type: val
       500:
         value:
-          r: 62
-          g: 147
-          b: 222
+          r: 31
+          g: 138
+          b: 224
           a: 1
         attributes:
           category: color
           type: val
       600:
         value:
-          r: 31
-          g: 122
-          b: 204
+          r: 0
+          g: 118
+          b: 203
           a: 1
         attributes:
           category: color
           type: val
       700:
         value:
-          r: 10
+          r: 0
           g: 98
-          b: 173
+          b: 177
           a: 1
         attributes:
           category: color
           type: val
       800:
         value:
-          r: 3
-          g: 71
-          b: 130
+          r: 0
+          g: 79
+          b: 146
           a: 1
         attributes:
           category: color
@@ -196,8 +196,8 @@ color:
       900:
         value:
           r: 0
-          g: 38
-          b: 71
+          g: 60
+          b: 112
           a: 1
         attributes:
           category: color
@@ -205,63 +205,63 @@ color:
     green:
       50:
         value:
-          r: 245
-          g: 255
-          b: 251
+          r: 231
+          g: 248
+          b: 239
           a: 1
         attributes:
           category: color
           type: val
       100:
         value:
-          r: 229
-          g: 255
-          b: 246
+          r: 182
+          g: 232
+          b: 207
           a: 1
         attributes:
           category: color
           type: val
       200:
         value:
-          r: 197
-          g: 252
-          b: 232
+          r: 134
+          g: 215
+          b: 177
           a: 1
         attributes:
           category: color
           type: val
       300:
         value:
-          r: 154
-          g: 245
-          b: 212
+          r: 83
+          g: 196
+          b: 149
           a: 1
         attributes:
           category: color
           type: val
       400:
         value:
-          r: 106
-          g: 235
-          b: 187
+          r: 4
+          g: 177
+          b: 123
           a: 1
         attributes:
           category: color
           type: val
       500:
         value:
-          r: 61
-          g: 219
-          b: 161
+          r: 0
+          g: 156
+          b: 100
           a: 1
         attributes:
           category: color
           type: val
       600:
         value:
-          r: 29
-          g: 196
-          b: 135
+          r: 0
+          g: 135
+          b: 80
           a: 1
         attributes:
           category: color
@@ -269,17 +269,17 @@ color:
       700:
         value:
           r: 0
-          g: 163
-          b: 103
+          g: 113
+          b: 63
           a: 1
         attributes:
           category: color
           type: val
       800:
         value:
-          r: 2
-          g: 102
-          b: 65
+          r: 0
+          g: 91
+          b: 49
           a: 1
         attributes:
           category: color
@@ -287,8 +287,8 @@ color:
       900:
         value:
           r: 0
-          g: 61
-          b: 39
+          g: 69
+          b: 36
           a: 1
         attributes:
           category: color
@@ -297,8 +297,8 @@ color:
       50:
         value:
           r: 255
-          g: 253
-          b: 245
+          g: 242
+          b: 224
           a: 1
         attributes:
           category: color
@@ -306,79 +306,79 @@ color:
       100:
         value:
           r: 255
-          g: 250
-          b: 232
+          g: 216
+          b: 166
           a: 1
         attributes:
           category: color
           type: val
       200:
         value:
-          r: 252
-          g: 243
-          b: 207
+          r: 238
+          g: 191
+          b: 111
           a: 1
         attributes:
           category: color
           type: val
       300:
         value:
-          r: 245
-          g: 230
-          b: 169
+          r: 222
+          g: 167
+          b: 59
           a: 1
         attributes:
           category: color
           type: val
       400:
         value:
-          r: 235
-          g: 212
-          b: 120
+          r: 202
+          g: 145
+          b: 0
           a: 1
         attributes:
           category: color
           type: val
       500:
         value:
-          r: 222
-          g: 191
-          b: 67
+          r: 180
+          g: 124
+          b: 0
           a: 1
         attributes:
           category: color
           type: val
       600:
         value:
-          r: 199
-          g: 165
-          b: 30
+          r: 156
+          g: 104
+          b: 0
           a: 1
         attributes:
           category: color
           type: val
       700:
         value:
-          r: 168
-          g: 137
-          b: 10
+          r: 132
+          g: 85
+          b: 0
           a: 1
         attributes:
           category: color
           type: val
       800:
         value:
-          r: 125
-          g: 100
-          b: 2
+          r: 108
+          g: 67
+          b: 0
           a: 1
         attributes:
           category: color
           type: val
       900:
         value:
-          r: 66
-          g: 53
+          r: 84
+          g: 51
           b: 0
           a: 1
         attributes:
@@ -479,8 +479,8 @@ color:
       50:
         value:
           r: 255
-          g: 247
-          b: 242
+          g: 240
+          b: 228
           a: 1
         attributes:
           category: color
@@ -488,7 +488,189 @@ color:
       100:
         value:
           r: 255
-          g: 239
+          g: 210
+          b: 175
+          a: 1
+        attributes:
+          category: color
+          type: val
+      200:
+        value:
+          r: 255
+          g: 181
+          b: 127
+          a: 1
+        attributes:
+          category: color
+          type: val
+      300:
+        value:
+          r: 249
+          g: 153
+          b: 83
+          a: 1
+        attributes:
+          category: color
+          type: val
+      400:
+        value:
+          r: 233
+          g: 128
+          b: 43
+          a: 1
+        attributes:
+          category: color
+          type: val
+      500:
+        value:
+          r: 212
+          g: 104
+          b: 0
+          a: 1
+        attributes:
+          category: color
+          type: val
+      600:
+        value:
+          r: 188
+          g: 83
+          b: 0
+          a: 1
+        attributes:
+          category: color
+          type: val
+      700:
+        value:
+          r: 161
+          g: 65
+          b: 0
+          a: 1
+        attributes:
+          category: color
+          type: val
+      800:
+        value:
+          r: 132
+          g: 50
+          b: 0
+          a: 1
+        attributes:
+          category: color
+          type: val
+      900:
+        value:
+          r: 102
+          g: 37
+          b: 0
+          a: 1
+        attributes:
+          category: color
+          type: val
+    purple:
+      50:
+        value:
+          r: 246
+          g: 241
+          b: 255
+          a: 1
+        attributes:
+          category: color
+          type: val
+      100:
+        value:
+          r: 228
+          g: 213
+          b: 255
+          a: 1
+        attributes:
+          category: color
+          type: val
+      200:
+        value:
+          r: 208
+          g: 187
+          b: 255
+          a: 1
+        attributes:
+          category: color
+          type: val
+      300:
+        value:
+          r: 185
+          g: 161
+          b: 255
+          a: 1
+        attributes:
+          category: color
+          type: val
+      400:
+        value:
+          r: 162
+          g: 137
+          b: 255
+          a: 1
+        attributes:
+          category: color
+          type: val
+      500:
+        value:
+          r: 138
+          g: 115
+          b: 240
+          a: 1
+        attributes:
+          category: color
+          type: val
+      600:
+        value:
+          r: 115
+          g: 95
+          b: 218
+          a: 1
+        attributes:
+          category: color
+          type: val
+      700:
+        value:
+          r: 93
+          g: 76
+          b: 191
+          a: 1
+        attributes:
+          category: color
+          type: val
+      800:
+        value:
+          r: 73
+          g: 60
+          b: 158
+          a: 1
+        attributes:
+          category: color
+          type: val
+      900:
+        value:
+          r: 56
+          g: 45
+          b: 121
+          a: 1
+        attributes:
+          category: color
+          type: val
+    pink:
+      50:
+        value:
+          r: 255
+          g: 238
+          b: 246
+          a: 1
+        attributes:
+          category: color
+          type: val
+      100:
+        value:
+          r: 255
+          g: 203
           b: 229
           a: 1
         attributes:
@@ -496,72 +678,72 @@ color:
           type: val
       200:
         value:
-          r: 252
-          g: 220
-          b: 199
+          r: 255
+          g: 167
+          b: 211
           a: 1
         attributes:
           category: color
           type: val
       300:
         value:
-          r: 245
-          g: 193
-          b: 162
+          r: 255
+          g: 132
+          b: 193
           a: 1
         attributes:
           category: color
           type: val
       400:
         value:
-          r: 235
-          g: 163
-          b: 118
+          r: 254
+          g: 97
+          b: 173
           a: 1
         attributes:
           category: color
           type: val
       500:
         value:
-          r: 219
-          g: 125
-          b: 66
+          r: 237
+          g: 63
+          b: 154
           a: 1
         attributes:
           category: color
           type: val
       600:
         value:
-          r: 196
-          g: 93
-          b: 29
+          r: 214
+          g: 27
+          b: 133
           a: 1
         attributes:
           category: color
           type: val
       700:
         value:
-          r: 168
-          g: 71
-          b: 10
+          r: 186
+          g: 0
+          b: 112
           a: 1
         attributes:
           category: color
           type: val
       800:
         value:
-          r: 133
-          g: 52
-          b: 3
+          r: 153
+          g: 0
+          b: 90
           a: 1
         attributes:
           category: color
           type: val
       900:
         value:
-          r: 87
-          g: 33
-          b: 0
+          r: 117
+          g: 0
+          b: 69
           a: 1
         attributes:
           category: color
