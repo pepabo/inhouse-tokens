@@ -18,7 +18,7 @@ StyleDictionary.registerTransform(opacityFloatToPercentTransform)
 StyleDictionary.registerFormat(androidNestedObjectFormat)
 StyleDictionary.registerFormat(figmaFormat)
 
-const buildRootPath = 'build/pepper'
+const buildRootPath = 'build/apollo'
 
 module.exports = {
   parsers: [yamlParser],
