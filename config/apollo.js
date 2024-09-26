@@ -22,7 +22,7 @@ const buildRootPath = 'build/apollo'
 
 module.exports = {
   parsers: [yamlParser],
-  source: ['tokens/pepper/**/*.yaml'],
+  source: ['tokens/apollo/**/*.yaml'],
   platforms: {
     figma: {
       transforms: ['attribute/cti', 'name/cti/pascal', 'size/remToNumber', 'color/css', 'opacity/floatToPercent'],
@@ -54,10 +54,10 @@ module.exports = {
       transformGroup: 'compose',
       buildPath: `${buildRootPath}/android/`,
       files: [{
-        destination: 'PepperFlavor.kt',
+        destination: 'ApolloFlavor.kt',
         format: 'compose/nested-object',
-        classPrefix: 'PepperFlavor',
-        packageName: 'com.pepabo.pepper.flavor',
+        classPrefix: 'ApolloFlavor',
+        packageName: 'com.pepabo.apollo.flavor',
         filter: ({ attributes }) => {
           return attributes.category === 'color' && ['val', 'semantic'].includes(attributes.type)
         }
