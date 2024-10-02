@@ -84,11 +84,27 @@ size:
         type: border
         item: focus-ring
     progress-indicator:
-      value: "{size.border.base.xl.value}"
-      attributes:
-        category: size
-        type: border
-        item: progress-indicator
+      s:
+        value: '{size.border.base.m.value}'
+        attributes:
+          category: size
+          type: border
+          item: progress-indicator
+          subitem: s
+      m:
+        value: '{size.border.base.l.value}'
+        attributes:
+          category: size
+          type: border
+          item: progress-indicator
+          subitem: m
+      l:
+        value: '{size.border.base.xl.value}'
+        attributes:
+          category: size
+          type: border
+          item: progress-indicator
+          subitem: l
     radio:
       value: '{size.border.base.m.value}'
       attributes:
