@@ -1,6 +1,6 @@
 {
   "name": "@pepabo-inhouse/tokens",
-  "version": "0.19.1",
+  "version": "2.0.0",
   "description": "Inhouse tokens",
   "files": [
     "build/"
