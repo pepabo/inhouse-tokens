@@ -43,3 +43,17 @@ size:
           type: gap
           item: base
           subitem: xl
+      xxl:
+        value: '{size.scale.48.value}'
+        attributes:
+          category: size
+          type: gap
+          item: base
+          subitem: xxl
+      xxxl:
+        value: '{size.scale.64.value}'
+        attributes:
+          category: size
+          type: gap
+          item: base
+          subitem: xxxl
