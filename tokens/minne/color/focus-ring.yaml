@@ -9,7 +9,7 @@ color:
           item: base
           subitem: light
       dark:
-        value: '{color.primitive.blue.400.value}'
+        value: '{color.primitive.blue.200.value}'
         attributes:
           category: color
           type: focus-ring
