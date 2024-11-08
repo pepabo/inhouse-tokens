@@ -2,7 +2,7 @@ color:
   focus-ring:
     base:
       light:
-        value: '{color.primitive.blue.400.value}'
+        value: '{color.primitive.blue.500.value}'
         attributes:
           category: color
           type: focus-ring
