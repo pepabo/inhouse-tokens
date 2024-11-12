@@ -1,0 +1,17 @@
+color:
+  focus-ring:
+    base:
+      light:
+        value: '{color.primitive.blue.500.value}'
+        attributes:
+          category: color
+          type: focus-ring
+          item: base
+          subitem: light
+      dark:
+        value: '{color.primitive.blue.200.value}'
+        attributes:
+          category: color
+          type: focus-ring
+          item: base
+          subitem: dark
