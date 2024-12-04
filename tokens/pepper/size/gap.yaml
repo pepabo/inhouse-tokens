@@ -2,28 +2,28 @@ size:
   gap:
     base:
       xxs:
-        value: '{size.scale.16.value}'
+        value: '{size.scale.4.value}'
         attributes:
           category: size
           type: gap
           item: base
           subitem: xxs
       xs:
-        value: '{size.scale.16.value}'
+        value: '{size.scale.8.value}'
         attributes:
           category: size
           type: gap
           item: base
           subitem: xs
       s:
-        value: '{size.scale.16.value}'
+        value: '{size.scale.12.value}'
         attributes:
           category: size
           type: gap
           item: base
           subitem: s
       m:
-        value: '{size.scale.24.value}'
+        value: '{size.scale.16.value}'
         attributes:
           category: size
           type: gap
@@ -37,7 +37,7 @@ size:
           item: base
           subitem: l
       xl:
-        value: '{size.scale.24.value}'
+        value: '{size.scale.32.value}'
         attributes:
           category: size
           type: gap
