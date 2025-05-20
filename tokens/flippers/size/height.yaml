@@ -1,5 +1,6 @@
 size:
   height:
+    # コンポーネント横断で利用される値をbase以下に記述する
     base:
       interactive-component:
         xs:
