@@ -15,10 +15,10 @@ color:
             subitem: light
         mid_emphasis:
           value:
-            r: 57
-            g: 60
-            b: 65
-            a: 0.6
+            r: 115
+            g: 117
+            b: 120
+            a: 1
           attributes:
             category: color
             type: text
@@ -26,10 +26,10 @@ color:
             subitem: light
         low_emphasis:
           value:
-            r: 57
-            g: 60
-            b: 65
-            a: 0.3
+            r: 196
+            g: 196
+            b: 198
+            a: 1
           attributes:
             category: color
             type: text
