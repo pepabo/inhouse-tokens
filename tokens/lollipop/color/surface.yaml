@@ -1,0 +1,72 @@
+color:
+  surface:
+    base:
+      light:
+        primary:
+          value: '{color.primitive.white.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: light
+        secondary:
+          value: '{color.primitive.gray.50.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: light
+        tertiary:
+          value: '{color.primitive.gray.100.value}'
+          attributes:
+            category: color
+            type: surface
+            item: base
+            subitem: light
+    skeleton:
+      value:
+        r: 0
+        g: 0
+        b: 0
+        a: 0.2
+      attributes:
+        category: color
+        type: surface
+        item: skeleton
+    checkbox:
+      enabled:
+        value: '{color.primitive.white.value}'
+        attributes:
+          category: color
+          type: surface
+          item: checkbox
+          state: enabled
+      selected:
+        value: '{color.primitive.blue.800.value}'
+        attributes:
+          category: color
+          type: surface
+          item: checkbox
+          state: selected
+      mixed:
+        value: '{color.primitive.blue.800.value}'
+        attributes:
+          category: color
+          type: surface
+          item: checkbox
+          state: mixed
+    radio:
+      enabled:
+        value: '{color.primitive.white.value}'
+        attributes:
+          category: color
+          type: surface
+          item: radio
+          state: enabled
+      selected:
+        value: '{color.primitive.blue.800.value}'
+        attributes:
+          category: color
+          type: surface
+          item: radio
+          state: selected

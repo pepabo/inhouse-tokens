@@ -1,0 +1,24 @@
+size:
+  radius:
+    base:
+      m:
+        value: '{size.scale.4.value}'
+        attributes:
+          category: size
+          type: radius
+          item: base
+          subitem: m
+      l:
+        value: '{size.scale.8.value}'
+        attributes:
+          category: size
+          type: radius
+          item: base
+          subitem: l
+      xl:
+        value: '{size.scale.12.value}'
+        attributes:
+          category: size
+          type: radius
+          item: base
+          subitem: xl

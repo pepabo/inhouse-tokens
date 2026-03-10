@@ -1,0 +1,59 @@
+size:
+  font:
+    base:
+      xxs:
+        value: 0.6875
+        attributes:
+          category: size
+          type: font
+          item: base
+          subitem: xxs
+      xs:
+        value: 0.75
+        attributes:
+          category: size
+          type: font
+          item: base
+          subitem: xs
+      s:
+        value: 0.875
+        attributes:
+          category: size
+          type: font
+          item: base
+          subitem: s
+      m:
+        value: 1
+        attributes:
+          category: size
+          type: font
+          item: base
+          subitem: m
+      l:
+        value: 1.125
+        attributes:
+          category: size
+          type: font
+          item: base
+          subitem: l
+      xl:
+        value: 1.3125
+        attributes:
+          category: size
+          type: font
+          item: base
+          subitem: xl
+      xxl:
+        value: 1.625
+        attributes:
+          category: size
+          type: font
+          item: base
+          subitem: xxl
+      xxxl:
+        value: 2
+        attributes:
+          category: size
+          type: font
+          item: base
+          subitem: xxxl
