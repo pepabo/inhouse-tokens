@@ -1,0 +1,105 @@
+size:
+  height:
+    base:
+      interactive-component:
+        xs:
+          value: '{size.scale.24.value}'
+          attributes:
+            category: size
+            type: height
+            item: base
+            subitem: interactive-component
+        s:
+          value: '{size.scale.32.value}'
+          attributes:
+            category: size
+            type: height
+            item: base
+            subitem: interactive-component
+        m:
+          value: '{size.scale.40.value}'
+          attributes:
+            category: size
+            type: height
+            item: base
+            subitem: interactive-component
+        l:
+          value: '{size.scale.48.value}'
+          attributes:
+            category: size
+            type: height
+            item: base
+            subitem: interactive-component
+        xl:
+          value: '{size.scale.56.value}'
+          attributes:
+            category: size
+            type: height
+            item: base
+            subitem: interactive-component
+    avatar:
+      xs:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: height
+          item: avatar
+          subitem: xs
+      s:
+        value: '{size.scale.32.value}'
+        attributes:
+          category: size
+          type: height
+          item: avatar
+          subitem: s
+      m:
+        value: '{size.scale.40.value}'
+        attributes:
+          category: size
+          type: height
+          item: avatar
+          subitem: m
+      l:
+        value: '{size.scale.56.value}'
+        attributes:
+          category: size
+          type: height
+          item: avatar
+          subitem: l
+    checkbox:
+      parent:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: height
+          item: checkbox
+          subitem: parent
+      child:
+        value: '{size.scale.20.value}'
+        attributes:
+          category: size
+          type: height
+          item: checkbox
+          subitem: child
+    radio:
+      child-foreground:
+        value: '{size.scale.12.value}'
+        attributes:
+          category: size
+          type: height
+          item: radio
+          subitem: child
+      child-background:
+        value: '{size.scale.20.value}'
+        attributes:
+          category: size
+          type: height
+          item: radio
+          subitem: child
+      parent:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: height
+          item: radio
+          subitem: parent

@@ -1,0 +1,30 @@
+size:
+  border:
+    base:
+      m:
+        value: '{size.scale.1.value}'
+        attributes:
+          category: size
+          type: border
+          item: base
+          subitem: m
+      l:
+        value: '{size.scale.2.value}'
+        attributes:
+          category: size
+          type: border
+          item: base
+          subitem: l
+      xl:
+        value: '{size.scale.4.value}'
+        attributes:
+          category: size
+          type: border
+          item: base
+          subitem: xl
+    checkbox:
+      value: '{size.border.base.m.value}'
+      attributes:
+        category: size
+        type: border
+        item: checkbox

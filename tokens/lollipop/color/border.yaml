@@ -1,0 +1,323 @@
+color:
+  border:
+    field:
+      negative:
+        enabled:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 1
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: negative
+            state: enabled
+        hover:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 1
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: negative
+            state: hover
+        focused:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 1
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: negative
+            state: focused
+        disabled:
+          value:
+            r: 255
+            g: 255
+            b: 255
+            a: 1
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: negative
+            state: disabled
+      neutral:
+        enabled:
+          value: "{color.semantic.neutral.400.value}"
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: neutral
+            state: enabled
+        hover:
+          value: "{color.semantic.neutral.600.value}"
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: neutral
+            state: hover
+        focused:
+          value: "{color.semantic.neutral.700.value}"
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: neutral
+            state: focused
+        disabled:
+          value: "{color.semantic.neutral.400.value}"
+          attributes:
+            category: color
+            type: border
+            item: field
+            subitem: neutral
+            state: disabled
+    base:
+      light:
+        high_emphasis:
+          value:
+            r: 20
+            g: 20
+            b: 20
+            a: 0.3
+          attributes:
+            category: color
+            type: border
+            item: base
+            subitem: light
+        mid_emphasis:
+          value:
+            r: 20
+            g: 20
+            b: 20
+            a: 0.2
+          attributes:
+            category: color
+            type: border
+            item: base
+            subitem: light
+        low_emphasis:
+          value:
+            r: 20
+            g: 20
+            b: 20
+            a: 0.1
+          attributes:
+            category: color
+            type: border
+            item: base
+            subitem: light
+    interactive-table:
+      heading:
+        selected:
+          skeleton:
+            value:
+              r: 57
+              g: 60
+              b: 65
+              a: 0.2
+            attributes:
+              category: color
+              type: border
+              item: interactive-table
+              subitem: heading
+          enabled:
+            value:
+              r: 57
+              g: 60
+              b: 65
+              a: 0.3
+            attributes:
+              category: color
+              type: border
+              item: interactive-table
+              subitem: heading
+          hover:
+            value:
+              r: 57
+              g: 60
+              b: 65
+              a: 0.3
+            attributes:
+              category: color
+              type: border
+              item: interactive-table
+              subitem: heading
+          focused:
+            value:
+              r: 57
+              g: 60
+              b: 65
+              a: 0.3
+            attributes:
+              category: color
+              type: border
+              item: interactive-table
+              subitem: heading
+          disabled:
+            value:
+              r: 57
+              g: 60
+              b: 65
+              a: 0.3
+            attributes:
+              category: color
+              type: border
+              item: interactive-table
+              subitem: heading
+        enabled:
+          value:
+            r: 57
+            g: 60
+            b: 65
+            a: 0.3
+          attributes:
+            category: color
+            type: border
+            item: interactive-table
+            subitem: heading
+        hover:
+          value:
+            r: 57
+            g: 60
+            b: 65
+            a: 0.3
+          attributes:
+            category: color
+            type: border
+            item: interactive-table
+            subitem: heading
+        focused:
+          value:
+            r: 57
+            g: 60
+            b: 65
+            a: 0.3
+          attributes:
+            category: color
+            type: border
+            item: interactive-table
+            subitem: heading
+        disabled:
+          value:
+            r: 57
+            g: 60
+            b: 65
+            a: 0.3
+          attributes:
+            category: color
+            type: border
+            item: interactive-table
+            subitem: heading
+      description:
+        enabled:
+          value:
+            r: 57
+            g: 60
+            b: 65
+            a: 0.2
+          attributes:
+            category: color
+            type: border
+            item: interactive-table
+            subitem: description
+        hover:
+          value:
+            r: 57
+            g: 60
+            b: 65
+            a: 0.2
+          attributes:
+            category: color
+            type: border
+            item: interactive-table
+            subitem: description
+        focused:
+          value:
+            r: 57
+            g: 60
+            b: 65
+            a: 0.2
+          attributes:
+            category: color
+            type: border
+            item: interactive-table
+            subitem: description
+        disabled:
+          value:
+            r: 57
+            g: 60
+            b: 65
+            a: 0.2
+          attributes:
+            category: color
+            type: border
+            item: interactive-table
+            subitem: description
+        skeleton:
+          value:
+            r: 57
+            g: 60
+            b: 65
+            a: 0.2
+          attributes:
+            category: color
+            type: border
+            item: interactive-table
+            subitem: description
+      selected:
+        enabled:
+          value:
+            r: 57
+            g: 60
+            b: 65
+            a: 0.2
+          attributes:
+            category: color
+            type: border
+            item: interactive-table
+            subitem: selected
+        hover:
+          value:
+            r: 57
+            g: 60
+            b: 65
+            a: 0.2
+          attributes:
+            category: color
+            type: border
+            item: interactive-table
+            subitem: selected
+        focused:
+          value:
+            r: 57
+            g: 60
+            b: 65
+            a: 0.2
+          attributes:
+            category: color
+            type: border
+            item: interactive-table
+            subitem: selected
+        disabled:
+          value:
+            r: 57
+            g: 60
+            b: 65
+            a: 0.2
+          attributes:
+            category: color
+            type: border
+            item: interactive-table
+            subitem: selected

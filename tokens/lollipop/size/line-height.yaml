@@ -1,0 +1,174 @@
+size:
+  line-height:
+    base:
+      comfort:
+        xxs:
+          value: 1.25
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: comfort
+        xs:
+          value: 1.5
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: comfort
+        s:
+          value: 1.75
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: comfort
+        m:
+          value: 1.75
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: comfort
+        l:
+          value: 2
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: comfort
+        xl:
+          value: 2.5
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: comfort
+        xxl:
+          value: 3
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: comfort
+        xxxl:
+          value: 3.5
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: comfort
+      normal:
+        xxs:
+          value: 1.25
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: normal
+        xs:
+          value: 1.25
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: normal
+        s:
+          value: 1.5
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: normal
+        m:
+          value: 1.5
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: normal
+        l:
+          value: 1.75
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: normal
+        xl:
+          value: 2
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: normal
+        xxl:
+          value: 2.5
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: normal
+        xxxl:
+          value: 3
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: normal
+      dense:
+        xxs:
+          value: 1
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: dense
+        xs:
+          value: 1
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: dense
+        s:
+          value: 1.25
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: dense
+        m:
+          value: 1.25
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: dense
+        l:
+          value: 1.5
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: dense
+        xl:
+          value: 1.75
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: dense
+        xxl:
+          value: 2.25
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: dense
+        xxxl:
+          value: 2.5
+          attributes:
+            category: size
+            type: line-height
+            item: base
+            subitem: dense

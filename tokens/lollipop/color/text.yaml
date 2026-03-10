@@ -1,0 +1,33 @@
+color:
+  text:
+    base:
+      light:
+        high_emphasis:
+          value: '{color.semantic.neutral.900.value}'
+          attributes:
+            category: color
+            type: text
+            item: base
+            subitem: light
+        mid_emphasis:
+          value:
+            r: 20
+            g: 20
+            b: 20
+            a: 0.6
+          attributes:
+            category: color
+            type: text
+            item: base
+            subitem: light
+        low_emphasis:
+          value:
+            r: 20
+            g: 20
+            b: 20
+            a: 0.3
+          attributes:
+            category: color
+            type: text
+            item: base
+            subitem: light

@@ -1,0 +1,17 @@
+size:
+  width:
+    checkbox:
+      parent:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: width
+          item: checkbox
+          subitem: parent
+      child:
+        value: '{size.scale.20.value}'
+        attributes:
+          category: size
+          type: width
+          item: checkbox
+          subitem: child
