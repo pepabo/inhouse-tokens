@@ -1,12 +1,12 @@
 {
   "name": "@pepabo-inhouse/tokens",
-  "version": "2.5.0",
+  "version": "2.7.0",
   "description": "Inhouse tokens",
   "files": [
     "build/"
   ],
   "scripts": {
-    "compile": "style-dictionary build --config ./config/pepper.js && style-dictionary build --config ./config/nachiguro.js && style-dictionary build --config ./config/flippers.js && style-dictionary build --config ./config/kung-pu.js && style-dictionary build --config ./config/minne.js && style-dictionary build --config ./config/apollo.js && style-dictionary build --config ./config/lollipop.js",
+    "compile": "style-dictionary build --config ./config/pepper.js && style-dictionary build --config ./config/nachiguro.js && style-dictionary build --config ./config/flippers.js && style-dictionary build --config ./config/kung-pu.js && style-dictionary build --config ./config/minne.js && style-dictionary build --config ./config/apollo.js && style-dictionary build --config ./config/lolipop.js",
     "clean": "rm -rf ./build",
     "build": "npm run clean && npm run compile",
     "prepublishOnly": "npm run build"

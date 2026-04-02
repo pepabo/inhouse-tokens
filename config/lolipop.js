@@ -18,11 +18,11 @@ StyleDictionary.registerTransform(opacityFloatToPercentTransform)
 StyleDictionary.registerFormat(androidNestedObjectFormat)
 StyleDictionary.registerFormat(figmaFormat)
 
-const buildRootPath = 'build/lollipop'
+const buildRootPath = 'build/lolipop'
 
 module.exports = {
   parsers: [yamlParser],
-  source: ['tokens/lollipop/**/*.yaml'],
+  source: ['tokens/lolipop/**/*.yaml'],
   platforms: {
     figma: {
       transforms: ['attribute/cti', 'name/cti/pascal', 'size/remToNumber', 'color/css', 'opacity/floatToPercent'],
