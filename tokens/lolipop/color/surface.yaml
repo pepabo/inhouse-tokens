@@ -30,21 +30,21 @@ color:
             category: color
             type: surface
             item: base
-            subitem: dark
+            subitem: light
         secondary:
           value: '{color.primitive.gray.700.value}'
           attributes:
             category: color
             type: surface
             item: base
-            subitem: dark
+            subitem: light
         tertiary:
           value: '{color.primitive.gray.600.value}'
           attributes:
             category: color
             type: surface
             item: base
-            subitem: dark
+            subitem: light
       brand:
         primary:
           value: '{color.primitive.lolipop-blue.600.value}'
