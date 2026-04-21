@@ -1,5 +1,11 @@
 size:
   boundary:
+    xxs:
+      value: 330
+      attributes:
+        category: boundary
+        type: boundary
+        item: xxs
     xs:
       value: 444
       attributes:

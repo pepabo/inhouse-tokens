@@ -114,3 +114,75 @@ size:
         category: size
         type: scale
         item: 120
+    128:
+      value: 8
+      attributes:
+        category: size
+        type: scale
+        item: 128
+    144:
+      value: 9
+      attributes:
+        category: size
+        type: scale
+        item: 144
+    160:
+      value: 10
+      attributes:
+        category: size
+        type: scale
+        item: 160
+    168:
+      value: 10.5
+      attributes:
+        category: size
+        type: scale
+        item: 168
+    176:
+      value: 11
+      attributes:
+        category: size
+        type: scale
+        item: 176
+    192:
+      value: 12
+      attributes:
+        category: size
+        type: scale
+        item: 192
+    216:
+      value: 13.5
+      attributes:
+        category: size
+        type: scale
+        item: 216
+    240:
+      value: 15
+      attributes:
+        category: size
+        type: scale
+        item: 240
+    256:
+      value: 16
+      attributes:
+        category: size
+        type: scale
+        item: 256
+    264:
+      value: 16.5
+      attributes:
+        category: size
+        type: scale
+        item: 264
+    288:
+      value: 18
+      attributes:
+        category: size
+        type: scale
+        item: 288
+    312:
+      value: 19.5
+      attributes:
+        category: size
+        type: scale
+        item: 312
