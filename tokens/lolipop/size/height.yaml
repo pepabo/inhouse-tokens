@@ -66,6 +66,59 @@ size:
           type: height
           item: avatar
           subitem: l
+    bottom-navigation:
+      body:
+        value: '{size.scale.56.value}'
+        attributes:
+          category: size
+          type: height
+          item: bottom-navigation
+          subitem: body
+      pict:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: height
+          item: bottom-navigation
+          subitem: pict
+    button:
+      pict:
+        icon-only:
+          xs:
+            value: '{size.scale.16.value}'
+            attributes:
+              category: size
+              type: height
+              item: button
+              subitem: pict
+          s:
+            value: '{size.scale.16.value}'
+            attributes:
+              category: size
+              type: height
+              item: button
+              subitem: pict
+          m:
+            value: '{size.scale.24.value}'
+            attributes:
+              category: size
+              type: height
+              item: button
+              subitem: pict
+          l:
+            value: '{size.scale.24.value}'
+            attributes:
+              category: size
+              type: height
+              item: button
+              subitem: pict
+          xl:
+            value: '{size.scale.24.value}'
+            attributes:
+              category: size
+              type: height
+              item: button
+              subitem: pict
     checkbox:
       parent:
         value: '{size.scale.24.value}'
@@ -81,21 +134,44 @@ size:
           type: height
           item: checkbox
           subitem: child
+    header:
+      value: '{size.scale.56.value}'
+      attributes:
+        category: size
+        type: height
+        item: header
+    interactive-list:
+      pict:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: height
+          item: interactive-list
+          subitem: pict
+      edge-element:
+        value: '{size.scale.32.value}'
+        attributes:
+          category: size
+          type: height
+          item: interactive-list
+          subitem: edge-element
+    interactive-table:
+      pict:
+        value: '{size.scale.24.value}'
+        attributes:
+          category: size
+          type: height
+          item: interactive-table
+          subitem: pict
+    progress-indicator:
+      circular:
+        value: "{size.scale.48.value}"
+        attributes:
+          category: size
+          type: height
+          item: progress-indicator
+          subitem: circular
     radio:
-      child-foreground:
-        value: '{size.scale.12.value}'
-        attributes:
-          category: size
-          type: height
-          item: radio
-          subitem: child
-      child-background:
-        value: '{size.scale.20.value}'
-        attributes:
-          category: size
-          type: height
-          item: radio
-          subitem: child
       parent:
         value: '{size.scale.24.value}'
         attributes:
@@ -103,3 +179,40 @@ size:
           type: height
           item: radio
           subitem: parent
+      child:
+        background:
+          value: '{size.scale.20.value}'
+          attributes:
+            category: size
+            type: height
+            item: radio
+            subitem: child
+        foreground:
+          value: '{size.scale.12.value}'
+          attributes:
+            category: size
+            type: height
+            item: radio
+            subitem: child
+    thumbnail:
+      s:
+        value: '{size.scale.40.value}'
+        attributes:
+          category: size
+          type: height
+          item: thumbnail
+          subitem: s
+      m:
+        value: '{size.scale.56.value}'
+        attributes:
+          category: size
+          type: height
+          item: thumbnail
+          subitem: m
+      l:
+        value: '{size.scale.72.value}'
+        attributes:
+          category: size
+          type: height
+          item: thumbnail
+          subitem: l

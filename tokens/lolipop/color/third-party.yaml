@@ -1,0 +1,136 @@
+color:
+  third-party:
+    light:
+      facebook:
+        value:
+          r: 24
+          g: 119
+          b: 242
+          a: 1
+        attributes:
+          category: color
+          type: third-party
+          item: light
+          subitem: facebook
+      twitter:
+        value:
+          r: 29
+          g: 161
+          b: 242
+          a: 1
+        attributes:
+          category: color
+          type: third-party
+          item: light
+          subitem: twitter
+      instagram:
+        value:
+          r: 225
+          g: 48
+          b: 108
+          a: 1
+        attributes:
+          category: color
+          type: third-party
+          item: light
+          subitem: instagram
+      apple:
+        value:
+          r: 0
+          g: 0
+          b: 0
+          a: 1
+        attributes:
+          category: color
+          type: third-party
+          item: light
+          subitem: apple
+      line:
+        value:
+          r: 6
+          g: 199
+          b: 85
+          a: 1
+        attributes:
+          category: color
+          type: third-party
+          item: light
+          subitem: line
+      hatena:
+        value:
+          r: 0
+          g: 164
+          b: 222
+          a: 1
+        attributes:
+          category: color
+          type: third-party
+          item: light
+          subitem: hatena
+    dark:
+      facebook:
+        value:
+          r: 24
+          g: 119
+          b: 242
+          a: 1
+        attributes:
+          category: color
+          type: third-party
+          item: dark
+          subitem: facebook
+      twitter:
+        value:
+          r: 29
+          g: 161
+          b: 242
+          a: 1
+        attributes:
+          category: color
+          type: third-party
+          item: dark
+          subitem: twitter
+      instagram:
+        value:
+          r: 225
+          g: 48
+          b: 108
+          a: 1
+        attributes:
+          category: color
+          type: third-party
+          item: dark
+          subitem: instagram
+      apple:
+        value:
+          r: 255
+          g: 255
+          b: 255
+          a: 1
+        attributes:
+          category: color
+          type: third-party
+          item: dark
+          subitem: apple
+      line:
+        value:
+          r: 6
+          g: 199
+          b: 85
+          a: 1
+        attributes:
+          category: color
+          type: third-party
+          item: dark
+          subitem: line
+      hatena:
+        value:
+          r: 0
+          g: 164
+          b: 222
+          a: 1
+        attributes:
+          category: color
+          type: third-party
+          item: dark
+          subitem: hatena

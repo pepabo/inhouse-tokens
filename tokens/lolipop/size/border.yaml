@@ -22,9 +22,98 @@ size:
           type: border
           item: base
           subitem: xl
+    avatar:
+      value: 0
+      attributes:
+        category: size
+        type: border
+        item: avatar
+    button:
+      flat:
+        value: '{size.border.base.m.value}'
+        attributes:
+          category: size
+          type: border
+          item: button
+          subitem: flat
+      outlined:
+        value: '{size.border.base.m.value}'
+        attributes:
+          category: size
+          type: border
+          item: button
+          subitem: outlined
+      solid:
+        value: '{size.border.base.m.value}'
+        attributes:
+          category: size
+          type: border
+          item: button
+          subitem: solid
+      white:
+        value: '{size.border.base.m.value}'
+        attributes:
+          category: size
+          type: border
+          item: button
+          subitem: white
+      transparent:
+        value: '{size.border.base.m.value}'
+        attributes:
+          category: size
+          type: border
+          item: button
+          subitem: transparent
+      hollow:
+        value: '{size.border.base.l.value}'
+        attributes:
+          category: size
+          type: border
+          item: button
+          subitem: hollow
     checkbox:
       value: '{size.border.base.m.value}'
       attributes:
         category: size
         type: border
         item: checkbox
+    focus-ring:
+      value: "{size.border.base.xl.value}"
+      attributes:
+        category: size
+        type: border
+        item: focus-ring
+    progress-indicator:
+      s:
+        value: '{size.border.base.m.value}'
+        attributes:
+          category: size
+          type: border
+          item: progress-indicator
+          subitem: s
+      m:
+        value: '{size.border.base.l.value}'
+        attributes:
+          category: size
+          type: border
+          item: progress-indicator
+          subitem: m
+      l:
+        value: '{size.border.base.xl.value}'
+        attributes:
+          category: size
+          type: border
+          item: progress-indicator
+          subitem: l
+    radio:
+      value: '{size.border.base.m.value}'
+      attributes:
+        category: size
+        type: border
+        item: radio
+    table:
+      value: '{size.border.base.m.value}'
+      attributes:
+        category: size
+        type: border
+        item: table
