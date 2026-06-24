@@ -12,7 +12,7 @@
     "prepublishOnly": "npm run build"
   },
   "devDependencies": {
-    "handlebars": "4.7.8",
+    "handlebars": "4.7.9",
     "style-dictionary": "3.7.1",
     "yaml": "2.3.1"
   }
