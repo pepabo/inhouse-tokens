@@ -3,21 +3,25 @@ color:
     base:
       light:
         primary:
-          value: '{color.primitive.white.1000.value}'
+          value:
+            r: 18
+            g: 30
+            b: 50
+            a: 1
           attributes:
             category: color
             type: surface
             item: base
             subitem: light
         secondary:
-          value: '{color.primitive.gray.50.value}'
+          value: '{color.primitive.gray.900.value}'
           attributes:
             category: color
             type: surface
             item: base
             subitem: light
         tertiary:
-          value: '{color.primitive.gray.100.value}'
+          value: '{color.primitive.gray.800.value}'
           attributes:
             category: color
             type: surface
@@ -97,7 +101,11 @@ color:
         item: avatar
     bottom-navigation:
       white:
-        value: '{color.surface.base.light.primary.value}'
+        value:
+          r: 18
+          g: 30
+          b: 50
+          a: 1
         attributes:
           category: color
           type: surface
@@ -137,7 +145,11 @@ color:
               subitem: scrim
     checkbox:
       enabled:
-        value: '{color.surface.base.light.primary.value}'
+        value:
+          r: 18
+          g: 30
+          b: 50
+          a: 1
         attributes:
           category: color
           type: surface
@@ -159,7 +171,7 @@ color:
           state: mixed
     header:
       white:
-        value: '{color.surface.base.light.primary.value}'
+        value: '{color.primitive.black.1000.value}'
         attributes:
           category: color
           type: surface
@@ -189,7 +201,11 @@ color:
           subitem: indicator
     radio:
       enabled:
-        value: '{color.surface.base.light.primary.value}'
+        value:
+          r: 18
+          g: 30
+          b: 50
+          a: 1
         attributes:
           category: color
           type: surface
@@ -204,10 +220,10 @@ color:
           state: selected
     skeleton:
       value:
-        r: 0
-        g: 0
-        b: 0
-        a: 0.2
+        r: 255
+        g: 255
+        b: 255
+        a: 0.12
       attributes:
         category: color
         type: surface
@@ -231,7 +247,11 @@ color:
             subitem: neutral
             state: hover
         focused:
-          value: "{color.primitive.white.1000.value}"
+          value:
+            r: 18
+            g: 30
+            b: 50
+            a: 1
           attributes:
             category: color
             type: surface
@@ -264,7 +284,11 @@ color:
             subitem: negative
             state: hover
         focused:
-          value: "{color.primitive.white.1000.value}"
+          value:
+            r: 18
+            g: 30
+            b: 50
+            a: 1
           attributes:
             category: color
             type: surface

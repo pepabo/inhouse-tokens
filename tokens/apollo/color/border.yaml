@@ -4,9 +4,9 @@ color:
       light:
         high_emphasis:
           value:
-            r: 57
-            g: 60
-            b: 65
+            r: 242
+            g: 243
+            b: 248
             a: 0.3
           attributes:
             category: color
@@ -15,9 +15,9 @@ color:
             subitem: light
         mid_emphasis:
           value:
-            r: 57
-            g: 60
-            b: 65
+            r: 242
+            g: 243
+            b: 248
             a: 0.2
           attributes:
             category: color
@@ -26,9 +26,9 @@ color:
             subitem: light
         low_emphasis:
           value:
-            r: 57
-            g: 60
-            b: 65
+            r: 242
+            g: 243
+            b: 248
             a: 0.1
           attributes:
             category: color

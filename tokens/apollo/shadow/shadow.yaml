@@ -11,7 +11,7 @@ shadow:
             r: 255
             g: 255
             b: 255
-          alpha: 0.5
+          alpha: 0.3
         attributes:
           category: shadow
           type: shadow
@@ -27,7 +27,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.1
+          alpha: 0.2
         attributes:
           category: shadow
           type: shadow
@@ -94,7 +94,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.12
+          alpha: 0.3
         attributes:
           category: shadow
           type: shadow
@@ -110,7 +110,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.12
+          alpha: 0.3
         attributes:
           category: shadow
           type: shadow
@@ -143,7 +143,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.12
+          alpha: 0.3
         attributes:
           category: shadow
           type: shadow
@@ -159,7 +159,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.12
+          alpha: 0.3
         attributes:
           category: shadow
           type: shadow
@@ -192,7 +192,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.08
+          alpha: 0.2
         attributes:
           category: shadow
           type: shadow
@@ -208,7 +208,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.12
+          alpha: 0.3
         attributes:
           category: shadow
           type: shadow
@@ -224,7 +224,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.12
+          alpha: 0.3
         attributes:
           category: shadow
           type: shadow
@@ -241,7 +241,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.08
+          alpha: 0.2
         attributes:
           category: shadow
           type: shadow
@@ -257,7 +257,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.12
+          alpha: 0.3
         attributes:
           category: shadow
           type: shadow
@@ -273,7 +273,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.12
+          alpha: 0.3
         attributes:
           category: shadow
           type: shadow
@@ -290,7 +290,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.28
+          alpha: 0.5
         attributes:
           category: shadow
           type: shadow
@@ -306,7 +306,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.2
+          alpha: 0.4
         attributes:
           category: shadow
           type: shadow
@@ -322,7 +322,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.24
+          alpha: 0.4
         attributes:
           category: shadow
           type: shadow
@@ -339,7 +339,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.32
+          alpha: 0.5
         attributes:
           category: shadow
           type: shadow
@@ -355,7 +355,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.24
+          alpha: 0.4
         attributes:
           category: shadow
           type: shadow
@@ -371,7 +371,7 @@ shadow:
             r: 0
             g: 0
             b: 0
-          alpha: 0.28
+          alpha: 0.5
         attributes:
           category: shadow
           type: shadow

@@ -3,14 +3,14 @@ color:
     base:
       light:
         base:
-          value: '{color.primitive.white.1000.value}'
+          value: '{color.primitive.black.1000.value}'
           attributes:
             category: color
             type: background
             item: base
             subitem: light
         well:
-          value: '{color.primitive.gray.50.value}'
+          value: '{color.primitive.gray.900.value}'
           attributes:
             category: color
             type: background
