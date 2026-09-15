@@ -206,52 +206,52 @@ color:
           type: semantic
     negative:
       50:
-        value: '{color.primitive.red.50.value}'
+        value: '{color.primitive.pink.50.value}'
         attributes:
           category: color
           type: semantic
       100:
-        value: '{color.primitive.red.100.value}'
+        value: '{color.primitive.pink.100.value}'
         attributes:
           category: color
           type: semantic
       200:
-        value: '{color.primitive.red.200.value}'
+        value: '{color.primitive.pink.200.value}'
         attributes:
           category: color
           type: semantic
       300:
-        value: '{color.primitive.red.300.value}'
+        value: '{color.primitive.pink.300.value}'
         attributes:
           category: color
           type: semantic
       400:
-        value: '{color.primitive.red.400.value}'
+        value: '{color.primitive.pink.400.value}'
         attributes:
           category: color
           type: semantic
       500:
-        value: '{color.primitive.red.500.value}'
+        value: '{color.primitive.pink.500.value}'
         attributes:
           category: color
           type: semantic
       600:
-        value: '{color.primitive.red.600.value}'
+        value: '{color.primitive.pink.600.value}'
         attributes:
           category: color
           type: semantic
       700:
-        value: '{color.primitive.red.700.value}'
+        value: '{color.primitive.pink.700.value}'
         attributes:
           category: color
           type: semantic
       800:
-        value: '{color.primitive.red.800.value}'
+        value: '{color.primitive.pink.800.value}'
         attributes:
           category: color
           type: semantic
       900:
-        value: '{color.primitive.red.900.value}'
+        value: '{color.primitive.pink.900.value}'
         attributes:
           category: color
           type: semantic

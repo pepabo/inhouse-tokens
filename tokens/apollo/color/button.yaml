@@ -9,7 +9,7 @@ color:
           item: base
           subitem: neutral
       negative:
-        value: '{color.semantic.negative.600.value}'
+        value: '{color.semantic.negative.400.value}'
         attributes:
           category: color
           type: button
